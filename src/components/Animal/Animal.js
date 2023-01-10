@@ -1,5 +1,4 @@
-import { animals } from '../../data';
-import classes from './Animal.css';
+import './Animal.css';
 import useSound from 'use-sound';
 
 export default function Animal(props) {
