@@ -20,3 +20,8 @@
   text-transform: uppercase;
   font-weight: bold;
 }
+
+.animal button {
+  background: none;
+  border: none;
+}
